@@ -6,6 +6,7 @@ theme: default
 paginate: true
 ---
 
+<!-- Custom styling -->
 <!-- _style: |
 section {
   font-family: 'Arial', sans-serif;
@@ -27,6 +28,7 @@ Contact: 24f2004977@ds.study.iitm.ac.in
 
 ---
 
+<!-- Slide with background image -->
 <!-- _backgroundImage: images/product-bg.png -->
 
 ## Product Overview
